@@ -7,12 +7,14 @@ form.addEventListener('submit', (e) => {
 
     let nome = document.getElementById('nome').value;
     let cpf = document.getElementById('cpf').value;
+    let endereco = document.getElementById('endereco').value;
     let email = document.getElementById('email').value;
     let telefone = document.getElementById('telefone').value;
 
     let dados = {
         nome,
         cpf,
+        endereco,
         email,
         telefone
     };

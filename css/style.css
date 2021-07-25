@@ -61,7 +61,6 @@ header {
     cursor: pointer;
     box-shadow: 0 1px 6px #20212447;
     background-color: #A4A4A4;
-   
 }
 
 
@@ -99,6 +98,7 @@ form#formulario {
 }
 
 .input {
+    width: 220px;
     border: 1px solid #dfe1e500;
     border-radius: 6px;
     outline-width: 0;
@@ -121,13 +121,13 @@ input[type=number] {
 }
 
 
-.container-cadastro table {
+.container-cadastro table {    
     margin: 40px 20px;
     color:rgb(148, 146, 218);
 }
 
 .container-cadastro table td, th {
-    width: 25%;
+    width: 20%;
 }
 
 .container-cadastro table thead {
