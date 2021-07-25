@@ -4,6 +4,9 @@ Objetivos:
 - Criar de inventário de produtos e dados de clientes;
 - Os dados de clientes, endereços e produtos devem estar devidamente estruturados
 - Dados armazenados no localstorage;
+
+VEJA O RESULTADO DO DESAFIO NO LINK: "https://cadastroprodutoseclientes.netlify.app/"
+
 # Funcionalidades:
 
 1. Ao entrar na página inicial, terá dua opções para selecionar. "Cadastro Clientes " e "Cadastrar Produto":
